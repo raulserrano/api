@@ -6,7 +6,8 @@
   ],
   "comentarios": [
     { "id": 1, "body": "primer comentario del articulo 1", "postId": 2 },
-    { "id": 2, "body": "primercomentario del artículo 2", "postId": 2 }
+    { "id": 2, "body": "primercomentario del artículo 2", "postId": 2 },
+    { "id": 3, "body": "primercomentario del artículo 3", "postId": 3 }
   ],
   "profile": {
     "name": "typicode"
