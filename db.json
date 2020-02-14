@@ -1,12 +1,12 @@
 {
   "articulos": [
-    { "id": 1, "articulo": "Raul" },
-    { "id": 2, "articulo": "Nombre 2" },
-    { "id": 3, "articulo": "Nombre 3" }
+    { "id": 1, "articulo": "Articulo 1" },
+    { "id": 2, "articulo": "Articulo 2" },
+    { "id": 3, "articulo": "Articulo 3" }
   ],
   "comentarios": [
-    { "id": 1, "body": "primer comentario del articulo 1", "postId": 1 },
-    { "id": 2, "body": "primercomentario del artículo 2", "postId": 1 }
+    { "id": 1, "body": "primer comentario del articulo 1", "postId": 2 },
+    { "id": 2, "body": "primercomentario del artículo 2", "postId": 2 }
   ],
   "profile": {
     "name": "typicode"
