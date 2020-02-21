@@ -5,9 +5,12 @@
     { "id": 3, "articulo": "Articulo 3" }
   ],
   "comentarios": [
-    { "id": 1, "body": "primer comentario del articulo 1", "postId": 2 },
-    { "id": 2, "body": "primercomentario del artículo 2", "postId": 2 },
-    { "id": 3, "body": "primercomentario del artículo 3", "postId": 3 }
+    { "id": 1, "body": "primer comentario del articulo 1", "postId": 1 },
+    { "id": 2, "body": "primer comentario del articulo 2", "postId": 2 },
+    { "id": 3, "body": "segundo comentario del artículo 2", "postId": 2 },
+    { "id": 4, "body": "tercer comentario del artículo 2", "postId": 2 },
+    { "id": 5, "body": "primer comentario del artículo 3", "postId": 3 },
+     { "id": 6, "body": "primer comentario del artículo 3", "postId": 3 }
   ],
   "profile": {
     "name": "typicode"
