@@ -1,6 +1,6 @@
 {
   "articulos": [
-    { "id": 1, "articulo": "Articulo 1",pru:[5] },
+    { "id": 1, "articulo": "Articulo 1","pru":[5] },
     { "id": 2, "articulo": "Articulo 2" },
     { "id": 3, "articulo": "Articulo 3" }
   ],
