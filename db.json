@@ -1,16 +1,16 @@
 {
   "articulos": [
-    { "id": 1, "articulo": "Articulo 1","pru":[5] },
-    { "id": 2, "articulo": "Articulo 2" },
-    { "id": 3, "articulo": "Articulo 3" }
+    { "id": 1, "articulo": "SMART TV","stock":5 },
+    { "id": 2, "articulo": "PORTÁTIL HP","stock":6 },
+    { "id": 3, "articulo": "PC SOBREMESA ACER","stock":4 }
   ],
   "comentarios": [
-    { "id": 1, "body": "primer comentario del articulo 1", "postId": 1 },
-    { "id": 2, "body": "primer comentario del articulo 2", "postId": 2 },
-    { "id": 3, "body": "segundo comentario del artículo 2", "postId": 2 },
-    { "id": 4, "body": "tercer comentario del artículo 2", "postId": 2 },
-    { "id": 5, "body": "primer comentario del artículo 3", "postId": 3 },
-     { "id": 6, "body": "segundo comentario del artículo 3", "postId": 3 }
+    { "id": 1, "body": "El televisor funciona correctamente", "postId": 1 },
+    { "id": 2, "body": "Portátil pequeñoy funcional", "postId": 2 },
+    { "id": 3, "body": "Tiene una buena tarjeta gráfica", "postId": 2 },
+    { "id": 4, "body": "El teclado está en castellano", "postId": 2 },
+    { "id": 5, "body": "PC muy potente", "postId": 3 },
+     { "id": 6, "body": "Todo jcorrecto, contento con la compra", "postId": 3 }
   ],
   "tiempo_semana": [
     { "dia": "lunes", "general": "soleado" ,"temperaturas":[5,4,3,3,2,6,7,8,9,9,11,12,13,14,15,16,17,15,12,11,10,8,5,4]},
